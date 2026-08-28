@@ -120,23 +120,18 @@
             color: #ef4444;
         }
 
-        .main-grid {
-            display: grid;
-            grid-template-columns: 1fr 2fr;
-            gap: 2rem;
-        }
 
-        @media (max-width: 768px) {
-            .main-grid {
-                grid-template-columns: 1fr;
-            }
-        }
 
         .panel {
             background: var(--panel-bg);
             border: 1px solid var(--panel-border);
             border-radius: 12px;
             padding: 1.5rem;
+        }
+
+        .filter-toggle button {
+            padding: 0.4rem 0.8rem;
+            font-size: 0.9rem;
         }
 
         .panel h2 {
@@ -208,6 +203,49 @@
             color: var(--rare-color);
         }
 
+        .rarity-white {
+            color: #ffffff;
+        }
+
+        .modal-overlay {
+            display: none;
+            position: fixed;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: rgba(0, 0, 0, 0.7);
+            z-index: 1000;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .modal-overlay.active {
+            display: flex;
+        }
+
+        .modal {
+            background: var(--panel-bg);
+            border: 1px solid var(--panel-border);
+            border-radius: 12px;
+            padding: 2rem;
+            width: 100%;
+            max-width: 400px;
+            position: relative;
+        }
+
+        .modal-close {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            background: none;
+            border: none;
+            color: var(--text-muted);
+            font-size: 1.5rem;
+            cursor: pointer;
+            padding: 0;
+        }
+        .modal-close:hover {
+            color: var(--text-main);
+        }
+
         .pagination {
             display: flex;
             justify-content: space-between;
@@ -228,8 +266,7 @@
     <div class="container">
         <header>
             <div>
-                <h1>Miliastra Wonderland</h1>
-                <p class="currency-label" id="currency-display">Current Currency: Arcane Keystones</p>
+                <h1>Miliastra Wonderland Ode Tracker</h1>
             </div>
             <div class="banner-toggle">
                 <button class="active" id="btn-event" onclick="setBanner('event')">Event Odes</button>
@@ -245,43 +282,25 @@
             <div class="stat-card">
                 <h3>Current Pity</h3>
                 <div class="stat-value" id="stat-pity">0</div>
-                <div id="pity-status" class="currency-label">Safe Zone</div>
             </div>
             <div class="stat-card">
                 <h3>Avg. Pity</h3>
                 <div class="stat-value" id="stat-avg-pity">0</div>
             </div>
             <div class="stat-card">
-                <h3>Legendary %</h3>
+                <h3 id="percent-label">5 Star %</h3>
                 <div class="stat-value" id="stat-percent">0%</div>
             </div>
         </div>
 
-        <div class="main-grid">
-            <div class="panel">
-                <h2>Log a Pull</h2>
-                <form id="pull-form">
-                    <div class="form-group">
-                        <label for="item-name">Item / Character Name</label>
-                        <input type="text" id="item-name" required placeholder="e.g., Astral Weaver">
-                    </div>
-                    <div class="form-group">
-                        <label for="item-rarity">Rarity</label>
-                        <select id="item-rarity" required>
-                            <!-- Populated by JS based on banner type -->
-                        </select>
-                    </div>
-                    <div class="form-group">
-                        <label for="item-date">Date</label>
-                        <input type="date" id="item-date" required>
-                    </div>
-                    <button type="submit" class="btn-submit">Add Pull</button>
-                </form>
+        <div class="panel">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem;">
+                <h2 style="margin-bottom: 0;">Pull History</h2>
+                <div class="filter-toggle" id="filter-buttons" style="display: flex; gap: 0.5rem;">
+                    <!-- Populated by JS -->
+                </div>
             </div>
-
-            <div class="panel">
-                <h2>Pull History</h2>
-                <table id="history-table">
+            <table id="history-table">
                     <thead>
                         <tr>
                             <th>#</th>
@@ -296,26 +315,62 @@
                     </tbody>
                 </table>
                 <div class="pagination">
-                    <button onclick="changePage(-1)" id="btn-prev">Previous</button>
-                    <span id="page-info">Page 1</span>
-                    <button onclick="changePage(1)" id="btn-next">Next</button>
+                    <div>
+                        <button onclick="changePage(-1)" id="btn-prev">Previous</button>
+                        <span id="page-info" style="margin: 0 1rem;">Page 1</span>
+                        <button onclick="changePage(1)" id="btn-next">Next</button>
+                    </div>
+                    <div>
+                        <select id="items-per-page" onchange="changeItemsPerPage()" style="width: auto; padding: 0.5rem;">
+                            <option value="5">5 per page</option>
+                            <option value="10" selected>10 per page</option>
+                            <option value="20">20 per page</option>
+                            <option value="50">50 per page</option>
+                        </select>
+                    </div>
                 </div>
             </div>
-        </div>
 
         <div class="data-management">
             <input type="file" id="import-file" style="display: none" accept=".json" onchange="importData(event)">
+            <button onclick="openModal()" style="border-color: var(--accent-blue); color: var(--accent-blue);">Log Pull Manually</button>
             <button onclick="document.getElementById('import-file').click()">Import JSON</button>
             <button onclick="exportData()">Export JSON</button>
             <button onclick="clearData()" style="border-color: #ef4444; color: #ef4444;">Clear Data</button>
         </div>
     </div>
 
+    <!-- Modal for Logging Pulls -->
+    <div class="modal-overlay" id="pull-modal">
+        <div class="modal">
+            <button class="modal-close" onclick="closeModal()">&times;</button>
+            <h2>Log a Pull</h2>
+            <form id="pull-form">
+                <div class="form-group" style="margin-top: 1rem;">
+                    <label for="item-name">Item / Character Name</label>
+                    <input type="text" id="item-name" required placeholder="e.g., Astral Weaver">
+                </div>
+                <div class="form-group">
+                    <label for="item-rarity">Rarity</label>
+                    <select id="item-rarity" required>
+                        <!-- Populated by JS based on banner type -->
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="item-date">Date</label>
+                    <input type="date" id="item-date" required>
+                </div>
+                <button type="submit" class="btn-submit">Add Pull</button>
+            </form>
+        </div>
+    </div>
+
     <script>
         let state = { event: [], standard: [] };
         let activeBanner = 'event';
+        let activeFilter = 'all';
         let currentPage = 1;
-        const ITEMS_PER_PAGE = 10;
+        let itemsPerPage = 10;
 
         // Pity Thresholds
         const PITY_SOFT = 55;
@@ -325,25 +380,20 @@
             const savedData = localStorage.getItem('miliastra_wishes_v2');
             if (savedData) state = JSON.parse(savedData);
             document.getElementById('item-date').valueAsDate = new Date();
+            document.getElementById('percent-label').innerText = '5 Star %'; // default for event
             updateFormDropdown();
+            updateFilterButtons();
             updateUI();
         }
 
-        function isLegendaryPull(stars, banner) {
-            if (banner === 'standard') return stars == '4';
-            return stars == '5';
-        }
+
 
         function getRarityClass(stars, banner) {
-            if (banner === 'standard') {
-                if (stars == '4') return 'rarity-legendary';
-                if (stars == '3') return 'rarity-elite';
-                return 'rarity-rare';
-            } else {
-                if (stars == '5') return 'rarity-legendary';
-                if (stars == '4') return 'rarity-elite';
-                return 'rarity-rare';
-            }
+            if (stars == '5') return 'rarity-legendary';
+            if (stars == '4') return 'rarity-elite';
+            if (stars == '3') return 'rarity-rare';
+            if (stars == '2') return 'rarity-white';
+            return 'rarity-white';
         }
 
         function calculateStats() {
@@ -354,15 +404,40 @@
             let legendaryCount = 0;
             let totalPityCost = 0;
 
-            [...history].reverse().forEach(pull => {
-                currentPity++;
-                if (isLegendaryPull(pull.rarity, activeBanner)) {
-                    legendaryCount++;
-                    totalPityCost += currentPity;
-                    currentPity = 0;
+            let pities = { '5': 0, '4': 0, '3': 0 };
+
+            const reversed = [...history].reverse();
+            reversed.forEach(pull => {
+                pities['5']++; pities['4']++; pities['3']++;
+
+                if (activeBanner === 'event') {
+                    if (pull.rarity == '5') {
+                        pull.pityHit = pities['5'];
+                        pities['5'] = 0;
+                        legendaryCount++;
+                        totalPityCost += pull.pityHit;
+                    } else if (pull.rarity == '4') {
+                        pull.pityHit = pities['4'];
+                        pities['4'] = 0;
+                    } else {
+                        pull.pityHit = '-';
+                    }
+                } else {
+                    if (pull.rarity == '4') {
+                        pull.pityHit = pities['4'];
+                        pities['4'] = 0;
+                        legendaryCount++;
+                        totalPityCost += pull.pityHit;
+                    } else if (pull.rarity == '3') {
+                        pull.pityHit = pities['3'];
+                        pities['3'] = 0;
+                    } else {
+                        pull.pityHit = '-';
+                    }
                 }
             });
 
+            currentPity = activeBanner === 'event' ? pities['5'] : pities['4'];
             const avgPity = legendaryCount > 0 ? (totalPityCost / legendaryCount).toFixed(1) : 0;
             const percent = total > 0 ? ((legendaryCount / total) * 100).toFixed(1) : 0;
 
@@ -391,12 +466,48 @@
             document.getElementById('btn-event').classList.toggle('active', banner === 'event');
             document.getElementById('btn-standard').classList.toggle('active', banner === 'standard');
 
-            document.getElementById('currency-display').innerText =
-                banner === 'event' ? 'Current Currency: Arcane Keystones' : 'Current Currency: Geodes of Replication';
+            document.getElementById('percent-label').innerText = banner === 'event' ? '5 Star %' : '4 Star %';
 
+            activeFilter = 'all';
             currentPage = 1;
             updateFormDropdown();
+            updateFilterButtons();
             updateUI();
+        }
+
+        function updateFilterButtons() {
+            const container = document.getElementById('filter-buttons');
+            let html = `<button class="${activeFilter === 'all' ? 'active' : ''}" onclick="setFilter('all')">All</button>`;
+            
+            if (activeBanner === 'standard') {
+                html += `
+                    <button class="${activeFilter === '4' ? 'active' : ''}" onclick="setFilter('4')">4★</button>
+                    <button class="${activeFilter === '3' ? 'active' : ''}" onclick="setFilter('3')">3★</button>
+                    <button class="${activeFilter === '2' ? 'active' : ''}" onclick="setFilter('2')">2★</button>
+                `;
+            } else {
+                html += `
+                    <button class="${activeFilter === '5' ? 'active' : ''}" onclick="setFilter('5')">5★</button>
+                    <button class="${activeFilter === '4' ? 'active' : ''}" onclick="setFilter('4')">4★</button>
+                    <button class="${activeFilter === '3' ? 'active' : ''}" onclick="setFilter('3')">3★</button>
+                `;
+            }
+            container.innerHTML = html;
+        }
+
+        function setFilter(filter) {
+            activeFilter = filter;
+            currentPage = 1;
+            updateFilterButtons();
+            renderTable();
+        }
+
+        function openModal() {
+            document.getElementById('pull-modal').classList.add('active');
+        }
+
+        function closeModal() {
+            document.getElementById('pull-modal').classList.remove('active');
         }
 
         function addPull(event) {
@@ -405,14 +516,13 @@
             const rarity = document.getElementById('item-rarity').value;
             const date = document.getElementById('item-date').value;
 
-            const stats = calculateStats();
-            const pityHit = isLegendaryPull(rarity, activeBanner) ? stats.currentPity + 1 : '-';
-
-            state[activeBanner].unshift({ id: Date.now().toString(), name, rarity, date, pityHit });
+            state[activeBanner].unshift({ id: Date.now().toString(), name, rarity, date, pityHit: '-' });
+            
+            updateUI();
             saveData();
 
             document.getElementById('item-name').value = '';
-            updateUI();
+            closeModal();
         }
 
         function updateUI() {
@@ -420,21 +530,13 @@
             document.getElementById('stat-total').innerText = stats.total;
 
             const pityEl = document.getElementById('stat-pity');
-            const statusEl = document.getElementById('pity-status');
             pityEl.innerText = stats.currentPity;
 
             pityEl.className = 'stat-value';
             if (stats.currentPity >= PITY_HARD) {
                 pityEl.classList.add('hard-pity');
-                statusEl.innerText = "Hard Pity Territory!";
-                statusEl.style.color = '#ef4444';
             } else if (stats.currentPity >= PITY_SOFT) {
                 pityEl.classList.add('soft-pity');
-                statusEl.innerText = "Soft Pity Range";
-                statusEl.style.color = '#f97316';
-            } else {
-                statusEl.innerText = "Safe Zone";
-                statusEl.style.color = 'var(--text-muted)';
             }
 
             document.getElementById('stat-avg-pity').innerText = stats.avgPity;
@@ -444,19 +546,28 @@
         }
 
         function renderTable() {
-            const history = state[activeBanner];
+            const history = state[activeBanner].map((pull, idx) => ({
+                ...pull,
+                pullNumber: state[activeBanner].length - idx
+            }));
+            
+            let filteredHistory = history;
+            if (activeFilter !== 'all') {
+                filteredHistory = filteredHistory.filter(pull => pull.rarity === activeFilter);
+            }
+
             const tbody = document.getElementById('table-body');
             tbody.innerHTML = '';
 
-            const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
-            const endIndex = startIndex + ITEMS_PER_PAGE;
+            const startIndex = (currentPage - 1) * itemsPerPage;
+            const endIndex = startIndex + itemsPerPage;
 
-            history.slice(startIndex, endIndex).forEach((pull, index) => {
+            filteredHistory.slice(startIndex, endIndex).forEach((pull, index) => {
                 const tr = document.createElement('tr');
                 const cssClass = getRarityClass(pull.rarity, activeBanner);
 
                 tr.innerHTML = `
-                    <td>${history.length - (startIndex + index)}</td>
+                    <td>${pull.pullNumber}</td>
                     <td class="${cssClass}">${pull.name || 'Unknown Item'}</td>
                     <td class="${cssClass}">${pull.rarity}★</td>
                     <td>${pull.date}</td>
@@ -465,12 +576,18 @@
                 tbody.appendChild(tr);
             });
 
-            document.getElementById('page-info').innerText = `Page ${currentPage} of ${Math.ceil(history.length / ITEMS_PER_PAGE) || 1}`;
+            document.getElementById('page-info').innerText = `Page ${currentPage} of ${Math.ceil(filteredHistory.length / itemsPerPage) || 1}`;
             document.getElementById('btn-prev').disabled = currentPage === 1;
-            document.getElementById('btn-next').disabled = endIndex >= history.length;
+            document.getElementById('btn-next').disabled = endIndex >= filteredHistory.length;
         }
 
         function changePage(dir) { currentPage += dir; renderTable(); }
+        
+        function changeItemsPerPage() {
+            itemsPerPage = parseInt(document.getElementById('items-per-page').value);
+            currentPage = 1;
+            renderTable();
+        }
         function saveData() { localStorage.setItem('miliastra_wishes_v2', JSON.stringify(state)); }
 
         function exportData() {
@@ -490,8 +607,8 @@
                     const importedData = JSON.parse(e.target.result);
                     if (importedData.event && importedData.standard) {
                         state = importedData;
-                        saveData();
                         updateUI();
+                        saveData();
                         alert("Data imported successfully!");
                     } else alert("Invalid file format.");
                 } catch (err) { alert("Error parsing JSON."); }
@@ -505,6 +622,9 @@
         }
 
         document.getElementById('pull-form').addEventListener('submit', addPull);
+        document.getElementById('pull-modal').addEventListener('click', function(e) {
+            if (e.target === this) closeModal();
+        });
         init();
     </script>
 </body>
