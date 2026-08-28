@@ -1,0 +1,3639 @@
+﻿{
+    "standard":  [
+                     {
+                         "date":  "2026-08-24 14:59:39",
+                         "rarity":  "4",
+                         "name":  "Set Catalog - \"Salted Lemon Fizz\"",
+                         "id":  "1787599200000005220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-20 12:07:26",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Comfy Slippers: Marine Blue\"",
+                         "id":  "1787246400000001420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-19 13:51:58",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Canvas High-Top Shoes: Teal Blue\"",
+                         "id":  "1787163600000008820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-19 13:51:56",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Sweet Citrus Hairband\"",
+                         "id":  "1787163600000008720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-19 13:51:53",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Nimble Sailor\u0027s Shirt: Ink Blue\"",
+                         "id":  "1787163600000008620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-18 13:11:01",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Mid-Calf Boots: Ink Black\"",
+                         "id":  "1787077200000001720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-18 05:35:11",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Soaring Contemplation Uniform\"",
+                         "id":  "1787048400000000720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-17 14:41:41",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Anemo Crystalfly Shirt: Ink Black\"",
+                         "id":  "1786994400000005720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-17 14:41:30",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Blubberbeast Shirt: Dark Gray\"",
+                         "id":  "1786994400000005620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-17 14:41:30",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Fitted Pants: Coconut Brown\"",
+                         "id":  "1786994400000005520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-17 14:41:30",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sassy Pleated Skirt: Mallard Green\"",
+                         "id":  "1786994400000005420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-17 14:41:30",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Sunlit Bloom Top\"",
+                         "id":  "1786994400000005320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-17 14:41:30",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Fitted Pants: Leaf Green\"",
+                         "id":  "1786994400000005220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-17 14:41:30",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Bootcut Pants: Marine Blue\"",
+                         "id":  "1786994400000005120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-17 14:41:30",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Comfy Slippers: Marine Blue\"",
+                         "id":  "1786994400000005020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-17 14:41:30",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Elegant Skirt: Leaf Green\"",
+                         "id":  "1786994400000004920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-17 14:41:30",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Orange Odyssey\"",
+                         "id":  "1786994400000004820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-17 14:41:30",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Comfy Slippers: Ash White\"",
+                         "id":  "1786994400000004720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-15 16:33:04",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Elegant Skirt: Light Brown\"",
+                         "id":  "1786828800000003820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-14 17:02:09",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Cuffed Shorts: Dark Green\"",
+                         "id":  "1786746000000001120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-14 15:05:54",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Cool Slippers: Marine Blue\"",
+                         "id":  "1786738800000000420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-12 17:35:55",
+                         "rarity":  "3",
+                         "name":  "Firm Nod",
+                         "id":  "1786573200000005820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-12 02:07:10",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sweet Blouse: Wine Red\"",
+                         "id":  "1786519200000002420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-12 02:06:46",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Classic Mid Sleeve Shirt: Light Green\"",
+                         "id":  "1786519200000002020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-12 02:06:43",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Joggers: Leaf Green\"",
+                         "id":  "1786519200000001920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-12 02:06:41",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Knit Bubble Sleeve Blouse: Ink Black\"",
+                         "id":  "1786519200000001820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-12 02:06:38",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Power Floof\"",
+                         "id":  "1786519200000001720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-12 02:06:35",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Leather Block Heels: Ink Black\"",
+                         "id":  "1786519200000001520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-12 02:06:33",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Lace-Up Mid-Calf Boots: Cream\"",
+                         "id":  "1786519200000001420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-12 02:06:30",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Ingenuous Missive\"",
+                         "id":  "1786519200000001320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-12 02:06:28",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Power Floof\"",
+                         "id":  "1786519200000001220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-05 19:11:01",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Curtain Bangs\"",
+                         "id":  "1785975600000000320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-03 14:25:46",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Classic Pleated Skirt: Light Blue\"",
+                         "id":  "1785784800000001620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-03 14:25:44",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Academic Shoes: Maroon\"",
+                         "id":  "1785784800000001520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-03 14:20:52",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Chill Cuffed Shorts: Marine Blue\"",
+                         "id":  "1785784800000001220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-08-03 14:20:50",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Elegant Dress Shirt: Cloud White\"",
+                         "id":  "1785784800000001120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-29 14:58:15",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Noble Orchid Long Dress\"",
+                         "id":  "1785352800000003820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-29 14:58:12",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Harem Pants: Leaf Green\"",
+                         "id":  "1785352800000003720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-27 18:02:18",
+                         "rarity":  "4",
+                         "name":  "Set Catalog - \"Tart Berry Muse\"",
+                         "id":  "1785194400000000120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-27 11:58:51",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Dance Track Pants\"",
+                         "id":  "1785169200000008120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-27 11:58:46",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Harem Pants: Granite Black\"",
+                         "id":  "1785169200000008020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-24 16:54:37",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Sweet Citrus Shorts\"",
+                         "id":  "1784928000000002820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-22 14:49:57",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Citrus Concord\"",
+                         "id":  "1784748000000004620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-22 14:49:55",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sweet Blouse: Wine Red\"",
+                         "id":  "1784748000000004520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-22 14:49:52",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Harem Pants: Leaf Green\"",
+                         "id":  "1784748000000004420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-22 14:49:50",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Guoba Shirt: Original\"",
+                         "id":  "1784748000000004320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-21 13:32:33",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Long Sleeve Hoodie: Grass Green\"",
+                         "id":  "1784658000000004520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-20 12:45:27",
+                         "rarity":  "3",
+                         "name":  "Knock",
+                         "id":  "1784568000000003620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-20 12:45:24",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Formal Dress Shirt: Ink Black\"",
+                         "id":  "1784568000000003520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-20 12:45:22",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Soaring Vigor Uniform\"",
+                         "id":  "1784568000000003420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-20 12:45:20",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Leather Boots: Light Brown\"",
+                         "id":  "1784568000000003320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-20 12:45:17",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Knit Bubble Sleeve Blouse: Ink Black\"",
+                         "id":  "1784568000000003220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-17 12:30:20",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Blubberbeast Shirt: Marine Blue\"",
+                         "id":  "1784308800000002420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-17 12:30:17",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Lace-Up Mid-Calf Boots: Cream\"",
+                         "id":  "1784308800000002320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-17 12:29:26",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Lowerlip Beauty Mark\"",
+                         "id":  "1784308800000002120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-16 13:14:29",
+                         "rarity":  "4",
+                         "name":  "Set Catalog - \"Ink-Tinged Sprout\"",
+                         "id":  "1784226000000000520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-16 13:14:07",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Comfy Slippers: Marine Blue\"",
+                         "id":  "1784226000000000420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-16 13:13:52",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Quiet Orchid Long Dress\"",
+                         "id":  "1784226000000000320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-16 13:13:35",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Elegant Skirt: Light Brown\"",
+                         "id":  "1784226000000000220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-16 13:13:32",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Academic Shoes: Ink Black\"",
+                         "id":  "1784226000000000120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-15 14:20:38",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Bubble Shorts: Granite Black\"",
+                         "id":  "1784143200000000720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-15 14:18:24",
+                         "rarity":  "3",
+                         "name":  "Angry",
+                         "id":  "1784143200000000620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-13 20:17:57",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Austere Formal Shirt: Ash White\"",
+                         "id":  "1783992000000002020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-13 20:17:55",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Formal Shirt: Marine Blue\"",
+                         "id":  "1783992000000001920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-13 20:17:51",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sharp Mid-Calf Boots: Ink Black\"",
+                         "id":  "1783992000000001820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-13 12:41:58",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Elegant Sailor\u0027s Blouse: Ink Blue\"",
+                         "id":  "1783963200000004820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-13 12:41:55",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Wrathful Waters Sailor Cap\"",
+                         "id":  "1783963200000004720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-13 12:41:52",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Long Sleeve Hoodie: Cloud White\"",
+                         "id":  "1783963200000004620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-13 12:41:49",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Academic Shoes: Silver White\"",
+                         "id":  "1783963200000004420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-13 12:41:47",
+                         "rarity":  "3",
+                         "name":  "Praise",
+                         "id":  "1783963200000004320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-13 12:41:45",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Starry Shirt: Light Gray\"",
+                         "id":  "1783963200000004120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-09 12:41:50",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Colorblock Sneakers: Chestnut\"",
+                         "id":  "1783617600000014520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-08 19:46:59",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Mycologist Gloves\"",
+                         "id":  "1783556400000002220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-08 19:46:56",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Cool Slippers: Marine Blue\"",
+                         "id":  "1783556400000002120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-08 13:43:37",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Formal Dress Shirt: Dark Blue\"",
+                         "id":  "1783534800000003620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-08 13:43:34",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Harem Pants: Leaf Green\"",
+                         "id":  "1783534800000003520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-08 13:43:32",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Sweet Citrus Hairband\"",
+                         "id":  "1783534800000003420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-06 17:19:06",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Short Sleeve Blouse: Pink\"",
+                         "id":  "1783376400000002020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-06 17:19:04",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Aranara Shirt: Cloud White\"",
+                         "id":  "1783376400000001920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-06 17:19:02",
+                         "rarity":  "3",
+                         "name":  "Encourage",
+                         "id":  "1783376400000001820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-06 17:18:59",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Long Sleeve Hoodie: Blue Lagoon\"",
+                         "id":  "1783376400000001720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-06 17:18:57",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Academic Shoes: Caramel Brown\"",
+                         "id":  "1783376400000001620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-06 16:28:24",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Sunlit Bloom Shorts\"",
+                         "id":  "1783372800000002820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-06 16:28:22",
+                         "rarity":  "3",
+                         "name":  "Wave-Off",
+                         "id":  "1783372800000002720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-06 16:28:19",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Straight Fit Shorts: Cloud White\"",
+                         "id":  "1783372800000002620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-06 16:28:17",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Soaring Vigor Shorts\"",
+                         "id":  "1783372800000002520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-06 16:28:14",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Colorblock Sneakers: Sprout\"",
+                         "id":  "1783372800000002420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-06 16:28:11",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Anemo Crystalfly Shirt: Ink Black\"",
+                         "id":  "1783372800000002320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-06 16:28:08",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Noble Orchid Simple Garment\"",
+                         "id":  "1783372800000002220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-01 21:30:12",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Joggers: Ink Black\"",
+                         "id":  "1782958800000001720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-01 00:16:36",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Leather Boots: Light Brown\"",
+                         "id":  "1782883200000018520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-01 00:16:33",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Nimble Sailor\u0027s Shirt: Marine Blue\"",
+                         "id":  "1782883200000018420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-01 00:16:31",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Sweet Citrus Geta\"",
+                         "id":  "1782883200000018320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-01 00:16:14",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Blouse: Light Gray\"",
+                         "id":  "1782883200000018220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-01 00:16:00",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Nimble Sailor\u0027s Shirt: Blue and White\"",
+                         "id":  "1782883200000018120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-01 00:15:58",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Straight Fit Shorts: Cloud White\"",
+                         "id":  "1782883200000018020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-01 00:15:56",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Mycologist Pants\"",
+                         "id":  "1782883200000017920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-01 00:15:52",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Canvas High-Top Shoes: Teal Blue\"",
+                         "id":  "1782883200000017820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-07-01 00:15:49",
+                         "rarity":  "3",
+                         "name":  "Praise",
+                         "id":  "1782883200000017720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-24 13:36:10",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Gentle Ponytail\"",
+                         "id":  "1782325200000004920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-23 12:46:10",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Colorblock Sneakers: Chestnut\"",
+                         "id":  "1782235200000006220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-23 12:46:08",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Formal Dress Shirt: Dark Blue\"",
+                         "id":  "1782235200000006120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-22 13:41:30",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Delicate Freckles\"",
+                         "id":  "1782152400000007220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-22 13:41:27",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Austere Formal Shirt: Dark Gray\"",
+                         "id":  "1782152400000007120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-17 15:02:57",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Crag Tapered Pants\"",
+                         "id":  "1781727600000000920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-15 19:13:39",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Power Floof\"",
+                         "id":  "1781569200000003520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-15 14:10:09",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Blubberbeast Shirt: Marine Blue\"",
+                         "id":  "1781551200000002820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-15 14:10:06",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Short Sleeve Blouse: Pink\"",
+                         "id":  "1781551200000002620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-15 14:10:04",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sweet Blouse: Wine Red\"",
+                         "id":  "1781551200000002520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-12 16:13:41",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Cool Slippers: Dark Brown\"",
+                         "id":  "1781299200000005620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-12 16:13:35",
+                         "rarity":  "3",
+                         "name":  "Hands on Hip",
+                         "id":  "1781299200000005520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-11 11:40:45",
+                         "rarity":  "4",
+                         "name":  "Set Catalog - \"Chromatic Mist\"",
+                         "id":  "1781194800000011420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-11 11:40:18",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Sunlit Bloom Hairband\"",
+                         "id":  "1781194800000011320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-11 04:35:46",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Straight Fit Shorts: Khaki\"",
+                         "id":  "1781169600000000920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-10 14:23:16",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Sunlit Bloom Geta\"",
+                         "id":  "1781119200000003720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-10 14:23:13",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Straight Fit Shorts: Cloud White\"",
+                         "id":  "1781119200000003620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-10 14:23:05",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Bubble Shorts: Khaki\"",
+                         "id":  "1781119200000003520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-09 11:56:17",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Elegant Skirt: Leaf Green\"",
+                         "id":  "1781022000000005520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-09 11:51:55",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Festive Fragrance Shoes\"",
+                         "id":  "1781022000000005420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-09 11:51:52",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Bubble Sleeve Blouse: Alizarin Crimson\"",
+                         "id":  "1781022000000005320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-09 11:51:50",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Austere Formal Shirt: Ash White\"",
+                         "id":  "1781022000000005220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-09 11:51:48",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Chill Cuffed Shorts: Marine Blue\"",
+                         "id":  "1781022000000005120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-09 00:44:28",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Comfy Slippers: Marine Blue\"",
+                         "id":  "1780982400000003420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-09 00:44:25",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Parchment Scroll: Matte\"",
+                         "id":  "1780982400000003320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-05 17:10:56",
+                         "rarity":  "3",
+                         "name":  "Tearful",
+                         "id":  "1780698000000000320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-03 15:37:48",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Comfy Slippers: Ash White\"",
+                         "id":  "1780518000000003020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-03 15:37:45",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Colorblock Sneakers: Sprout\"",
+                         "id":  "1780518000000002920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-01 18:13:07",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Agile Sports Shorts: Light Gray\"",
+                         "id":  "1780356000000000920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-01 18:13:02",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Quiet Orchid Simple Garment\"",
+                         "id":  "1780356000000000820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-01 13:46:22",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Dance Hoodie\"",
+                         "id":  "1780338000000001920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-01 13:46:19",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Joggers: Leaf Green\"",
+                         "id":  "1780338000000001820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-01 13:46:17",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Soaring Contemplation Long Boots\"",
+                         "id":  "1780338000000001720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-01 13:40:49",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Quiet Orchid Long Dress\"",
+                         "id":  "1780338000000001620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-01 13:40:47",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Hooded T-Shirt: Sunny Orange\"",
+                         "id":  "1780338000000001520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-01 13:40:45",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Chill Cuffed Shorts: Dark Blue\"",
+                         "id":  "1780338000000001420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-01 13:40:43",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Bubble Shorts: Khaki\"",
+                         "id":  "1780338000000001320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-01 13:29:05",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Harem Pants: Cloud White\"",
+                         "id":  "1780338000000001120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-06-01 13:29:02",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Soaring Vigor Uniform\"",
+                         "id":  "1780338000000001020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-31 14:41:40",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Knit Bubble Sleeve Blouse: Cloud White\"",
+                         "id":  "1780255200000002520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-28 12:14:19",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Crescent Moon: Golden\"",
+                         "id":  "1779988800000000420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-27 12:27:21",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Bubble Shorts: Dark Gray\"",
+                         "id":  "1779902400000003620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-26 16:14:40",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Umbral Coat\"",
+                         "id":  "1779830400000001520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-26 16:14:37",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Cuffed Shorts: Blazing Red\"",
+                         "id":  "1779830400000001420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-26 16:14:35",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sharp Mid-Calf Boots: Ink Black\"",
+                         "id":  "1779830400000001320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-26 15:19:08",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Harem Pants: Cloud White\"",
+                         "id":  "1779826800000001920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-25 16:32:05",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sweet Blouse: Light Gray\"",
+                         "id":  "1779744000000004120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-25 16:32:02",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Wrathful Waters Sailor Outfit\"",
+                         "id":  "1779744000000004020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-25 16:32:00",
+                         "rarity":  "3",
+                         "name":  "Bow",
+                         "id":  "1779744000000003920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-25 16:31:57",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Chill Cuffed Shorts: Cloud White\"",
+                         "id":  "1779744000000003820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-25 16:31:54",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Sunlit Bloom Shorts\"",
+                         "id":  "1779744000000003720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-23 17:24:28",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Cuffed Shorts: Mallard Green\"",
+                         "id":  "1779574800000001720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-23 17:24:24",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Elegant Sailor\u0027s Blouse: Ink Blue\"",
+                         "id":  "1779574800000001620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-22 16:06:18",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Knit Bubble Sleeve Blouse: Grass Green\"",
+                         "id":  "1779484800000001620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-21 16:09:27",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Leather Boots: Light Brown\"",
+                         "id":  "1779398400000001020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-21 16:09:24",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Sprout Mid-Calf Boots\"",
+                         "id":  "1779398400000000920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-20 16:47:57",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Austere Formal Shirt: Dark Gray\"",
+                         "id":  "1779312000000007720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-19 22:20:11",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Straight Fit Shorts: Ink Black\"",
+                         "id":  "1779247200000018120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-19 22:20:08",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Bubble Shorts: Granite Black\"",
+                         "id":  "1779247200000018020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-19 22:20:05",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Bootcut Pants: Ink Black\"",
+                         "id":  "1779247200000017920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-19 22:20:03",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Valiant Banner: Black\"",
+                         "id":  "1779247200000017820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-19 22:20:00",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Umbral High Boots\"",
+                         "id":  "1779247200000017720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-19 22:19:57",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Symphonic Sandals\"",
+                         "id":  "1779247200000017620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-19 22:19:55",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Mycologist Shoes\"",
+                         "id":  "1779247200000017520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-19 22:19:52",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Short Bubble Sleeve Blouse: Beige\"",
+                         "id":  "1779247200000017420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-19 22:19:48",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Leather Block Heels: Blazing Red\"",
+                         "id":  "1779247200000017320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-13 15:13:07",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Colorblock Sneakers: Marine Blue\"",
+                         "id":  "1778703600000001020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-13 15:13:05",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Bubble Sleeve Blouse: Ink Blue\"",
+                         "id":  "1778703600000000920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-13 15:13:03",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Sweet Citrus Socks\"",
+                         "id":  "1778703600000000820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-13 15:12:47",
+                         "rarity":  "4",
+                         "name":  "Set Catalog - \"Dawn\u0027s Visionary\"",
+                         "id":  "1778703600000000720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-13 15:12:45",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Sprout Shirt\"",
+                         "id":  "1778703600000000620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-07 14:20:55",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Orange Odyssey\"",
+                         "id":  "1778181600000000820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-07 14:20:53",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Mid-Calf Boots: Ink Black\"",
+                         "id":  "1778181600000000720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-07 14:20:50",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Canvas High-Top Shoes: Caramel Brown\"",
+                         "id":  "1778181600000000620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-07 14:20:47",
+                         "rarity":  "3",
+                         "name":  "Pour Tea",
+                         "id":  "1778181600000000520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-05-07 14:20:44",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Short Bubble Sleeve Blouse: Beige\"",
+                         "id":  "1778181600000000420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-30 13:41:27",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Cuffed Shorts: Mallard Green\"",
+                         "id":  "1777573200000002720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-29 13:19:07",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Formal Dress Shirt: Dark Purple\"",
+                         "id":  "1777486800000002220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-29 13:19:05",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sweet Blouse: Coconut Brown\"",
+                         "id":  "1777486800000002120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-29 13:19:02",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Vermilion Socks\"",
+                         "id":  "1777486800000002020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-29 13:18:59",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Classic Mid Sleeve Shirt: Light Green\"",
+                         "id":  "1777486800000001920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-29 13:18:57",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Comfy Slippers: Ash White\"",
+                         "id":  "1777486800000001820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-29 13:18:55",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Blubberbeast Shirt: Dark Gray\"",
+                         "id":  "1777486800000001720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-29 13:18:53",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Academic Shoes: Ink Black\"",
+                         "id":  "1777486800000001620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-28 16:46:01",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Soaring Vigor Gloves\"",
+                         "id":  "1777411200000003520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-27 14:23:50",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Canvas High-Top Shoes: Teal Blue\"",
+                         "id":  "1777317600000002120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-27 14:23:47",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Orange Odyssey\"",
+                         "id":  "1777317600000002020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-26 18:40:34",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Wrathful Waters Leather Shoes\"",
+                         "id":  "1777245600000001920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-26 18:40:30",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Palm Tree Casual Shirt: Dark Green\"",
+                         "id":  "1777245600000001820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-22 13:29:22",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Chill Cuffed Shorts: Cloud White\"",
+                         "id":  "1776882000000002420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-22 13:22:18",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Leather Boots: Coconut Brown\"",
+                         "id":  "1776882000000002120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-22 13:22:03",
+                         "rarity":  "4",
+                         "name":  "Set Catalog - \"Boundless Resolve\"",
+                         "id":  "1776882000000001720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-22 13:21:54",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Dance Beat Shoes\"",
+                         "id":  "1776882000000001620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-22 13:21:44",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Colorblock Sneakers: Peach\"",
+                         "id":  "1776882000000001520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-22 13:21:35",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Bubble Shorts: Granite Black\"",
+                         "id":  "1776882000000001420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-20 15:21:26",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Symphonic Robe\"",
+                         "id":  "1776716400000000920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-20 15:21:23",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Fitted Pants: Dark Gray\"",
+                         "id":  "1776716400000000820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-20 15:03:00",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Cool Slippers: Dark Green\"",
+                         "id":  "1776716400000000320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-20 15:02:57",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Lace-Up Boots: Lead Gray\"",
+                         "id":  "1776716400000000220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-20 15:02:54",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Colorblock Sneakers: Chestnut\"",
+                         "id":  "1776716400000000120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-16 14:20:00",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Symphonic Robe\"",
+                         "id":  "1776367200000000720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-15 13:22:57",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Harem Pants: Leaf Green\"",
+                         "id":  "1776277200000001920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-15 13:22:54",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Nimble Sailor\u0027s Shirt: Ink Blue\"",
+                         "id":  "1776277200000001820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-15 13:22:44",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Academic Shoes: Maroon\"",
+                         "id":  "1776277200000001720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-15 13:22:41",
+                         "rarity":  "3",
+                         "name":  "Encourage",
+                         "id":  "1776277200000001620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-15 13:22:38",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Fitted Pants: Light Blue\"",
+                         "id":  "1776277200000001520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-15 13:22:35",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Colorblock Sneakers: Ash White\"",
+                         "id":  "1776277200000001420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-15 13:22:31",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Bubble Shorts: Light Green\"",
+                         "id":  "1776277200000001320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-14 13:23:52",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Blubberbeast Shirt: Dark Gray\"",
+                         "id":  "1776190800000001520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-13 16:13:01",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Noble Orchid Fabric Shoes\"",
+                         "id":  "1776115200000001620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-13 16:12:58",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Nimble Sailor\u0027s Shirt: Marine Blue\"",
+                         "id":  "1776115200000001520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-12 21:05:00",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Leisurely Sun Hat\"",
+                         "id":  "1776046800000001120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-11 14:54:28",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Dance Hoodie\"",
+                         "id":  "1775935200000009920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-11 14:54:25",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Elegant Dress Shirt: Ink Black\"",
+                         "id":  "1775935200000009820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-11 14:54:22",
+                         "rarity":  "3",
+                         "name":  "Angry",
+                         "id":  "1775935200000009720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-09 15:04:34",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Sports Shorts: Khaki\"",
+                         "id":  "1775766000000000920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-09 15:04:31",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Long Sleeve Hoodie: Dark Green\"",
+                         "id":  "1775766000000000820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-09 15:01:05",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Quiet Orchid Pants\"",
+                         "id":  "1775766000000000520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-09 15:01:02",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Long Sleeve Hoodie: Dark Green\"",
+                         "id":  "1775766000000000420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-09 15:01:00",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Straight Fit Shorts: Light Gray\"",
+                         "id":  "1775766000000000320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-09 15:00:57",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Short Sleeve Blouse: Pink\"",
+                         "id":  "1775766000000000220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-09 15:00:55",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Guoba Shirt: Original\"",
+                         "id":  "1775766000000000120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-09 00:20:22",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Blazing Sun Hat\"",
+                         "id":  "1775712000000013420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-08 13:39:06",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Classic Mid Sleeve Shirt: Cloud White\"",
+                         "id":  "1775672400000008220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-08 13:39:03",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Joggers: Leaf Green\"",
+                         "id":  "1775672400000008120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-08 13:39:00",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Academic Shoes: Silver White\"",
+                         "id":  "1775672400000008020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-08 13:38:57",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sharp Claws Shirt: Ink Black\"",
+                         "id":  "1775672400000007920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-01 13:47:53",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Clear Ripples Embroidered Boots\"",
+                         "id":  "1775067600000001420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-01 13:47:51",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Joggers: Ink Black\"",
+                         "id":  "1775067600000001320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-01 13:47:48",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Hooded T-Shirt: Sunny Orange\"",
+                         "id":  "1775067600000001220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-01 13:47:45",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Elegant Sailor\u0027s Blouse: Purple and White\"",
+                         "id":  "1775067600000001120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-04-01 13:47:43",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Blouse: Light Gray\"",
+                         "id":  "1775067600000001020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-25 15:53:21",
+                         "rarity":  "3",
+                         "name":  "Over Here",
+                         "id":  "1774470000000004920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-25 15:53:15",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Wrathful Waters Leather Shoes\"",
+                         "id":  "1774470000000004820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-25 15:53:11",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Fatui Shirt: Ink Black\"",
+                         "id":  "1774470000000004720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-25 15:53:08",
+                         "rarity":  "3",
+                         "name":  "Firm Nod",
+                         "id":  "1774470000000004620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-25 15:53:05",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Agile Sports Shorts: Dark Blue\"",
+                         "id":  "1774470000000004520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-24 16:46:48",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Clear Ripples Embroidered Boots\"",
+                         "id":  "1774387200000002820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-20 17:41:44",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Leather Boots: Coal Black\"",
+                         "id":  "1774045200000003920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-18 13:14:35",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Wrathful Waters Sailor Cap\"",
+                         "id":  "1773858000000001320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-18 13:14:33",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sassy Pleated Skirt: Indigo\"",
+                         "id":  "1773858000000001220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-18 13:14:29",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Sprout Shirt\"",
+                         "id":  "1773858000000001120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-18 13:14:27",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Fitted Pants: Dark Blue\"",
+                         "id":  "1773858000000001020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-18 13:14:24",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Camisole: Pink\"",
+                         "id":  "1773858000000000920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-18 13:14:21",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Formal Shirt: Cloud White\"",
+                         "id":  "1773858000000000820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-18 13:14:19",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Blouse: Light Gray\"",
+                         "id":  "1773858000000000720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-18 13:14:16",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Dance Hoodie\"",
+                         "id":  "1773858000000000620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-16 14:56:57",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Wrathful Waters Sailor Outfit\"",
+                         "id":  "1773688800000002820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-16 14:55:06",
+                         "rarity":  "4",
+                         "name":  "Set Catalog - \"Dawn\u0027s Visionary\"",
+                         "id":  "1773688800000002720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-13 16:11:45",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Blouse: Ink Black\"",
+                         "id":  "1773436800000001120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-11 13:37:41",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Bubble Shorts: Teal\"",
+                         "id":  "1773253200000003020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-11 13:16:14",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Symphonic Bracelet\"",
+                         "id":  "1773253200000001420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-11 13:16:11",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Academic Shoes: Dark Brown\"",
+                         "id":  "1773253200000001320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-11 13:16:08",
+                         "rarity":  "3",
+                         "name":  "Handshake",
+                         "id":  "1773253200000001220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-11 13:16:05",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Long Sleeve Hoodie: Marine Blue\"",
+                         "id":  "1773253200000001120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-11 13:16:02",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Leather Block Heels: Ink Black\"",
+                         "id":  "1773253200000001020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-10 15:52:56",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Twilight Butterfly\"",
+                         "id":  "1773174000000002020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-10 15:52:53",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Fitted Pants: Ink Black\"",
+                         "id":  "1773174000000001920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-09 15:15:32",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Guoba Shirt: Original\"",
+                         "id":  "1773087600000001420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-09 15:06:34",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Camisole: Marine Blue\"",
+                         "id":  "1773087600000000320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-09 15:06:31",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Camisole: Pink\"",
+                         "id":  "1773087600000000220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-06 14:22:45",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Wrathful Waters Sailor Outfit\"",
+                         "id":  "1772824800000003320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-06 14:22:41",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Lace-Up Mid-Calf Boots: Cream\"",
+                         "id":  "1772824800000003220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-06 14:22:39",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Cuffed Shorts: Blazing Red\"",
+                         "id":  "1772824800000003120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-06 14:22:25",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sharp Claws Shirt: Ink Black\"",
+                         "id":  "1772824800000003020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-06 14:22:25",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Little Devil Casual Shirt: Blazing Red\"",
+                         "id":  "1772824800000002920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-06 14:22:25",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Citrus Concord\"",
+                         "id":  "1772824800000002820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-06 14:22:25",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Vermilion Long Sleeve Shirt\"",
+                         "id":  "1772824800000002720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-06 14:22:25",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Umbral Boots\"",
+                         "id":  "1772824800000002620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-06 14:22:25",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Fitted Pants: Light Blue\"",
+                         "id":  "1772824800000002520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-06 14:22:25",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Elegant Skirt: Leaf Green\"",
+                         "id":  "1772824800000002420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-06 14:22:25",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Fitted Pants: Light Blue\"",
+                         "id":  "1772824800000002320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-06 14:22:25",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Harem Pants: Granite Black\"",
+                         "id":  "1772824800000002220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-06 14:22:25",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Wrathful Waters Leather Shoes\"",
+                         "id":  "1772824800000002120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-04 13:59:17",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Leather Block Heels: Cream\"",
+                         "id":  "1772648400000007020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-04 13:59:14",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Symphonic Laurel Crown\"",
+                         "id":  "1772648400000006920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-04 13:59:12",
+                         "rarity":  "3",
+                         "name":  "Praise",
+                         "id":  "1772648400000006820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-04 13:59:09",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Knit Bubble Sleeve Blouse: Ink Black\"",
+                         "id":  "1772648400000006720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-04 13:59:06",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Harem Pants: Granite Black\"",
+                         "id":  "1772648400000006620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-04 13:59:04",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Short Twintails\"",
+                         "id":  "1772648400000006520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-04 13:59:02",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Symphonic Neckpiece\"",
+                         "id":  "1772648400000006420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-04 13:58:59",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Plain Skirt: Pink\"",
+                         "id":  "1772648400000006320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-02 14:19:51",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Cuffed Shorts: Dark Green\"",
+                         "id":  "1772479200000000820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-02 14:19:49",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Leather Block Heels: Ink Black\"",
+                         "id":  "1772479200000000720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-02 14:19:46",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Dance Track Pants\"",
+                         "id":  "1772479200000000620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-02 14:19:44",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Long Sleeve Hoodie: Blue Lagoon\"",
+                         "id":  "1772479200000000520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-03-02 14:19:41",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Leather Boots: Coal Black\"",
+                         "id":  "1772479200000000420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-27 15:56:03",
+                         "rarity":  "3",
+                         "name":  "Handshake",
+                         "id":  "1772223600000005720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-27 15:56:00",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Short Bubble Sleeve Blouse: Light Gray\"",
+                         "id":  "1772223600000005620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-27 15:55:56",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Aranara Shirt: Grass Green\"",
+                         "id":  "1772223600000005520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-25 18:44:29",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Symphonic Laurel Crown\"",
+                         "id":  "1772061600000014420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-25 18:44:26",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Symphonic Laurel Crown\"",
+                         "id":  "1772061600000014320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-25 18:44:19",
+                         "rarity":  "4",
+                         "name":  "Set Catalog - \"Autumn Veins\"",
+                         "id":  "1772061600000014220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-25 18:44:16",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Aranara Shirt: Grass Green\"",
+                         "id":  "1772061600000014120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-25 18:44:13",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Symphonic Sandals\"",
+                         "id":  "1772061600000014020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-24 21:46:47",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Formal Dress Shirt: Dark Purple\"",
+                         "id":  "1771986000000029220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-24 21:40:17",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Comfy Slippers: Marine Blue\"",
+                         "id":  "1771986000000026220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-24 21:40:15",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Agile Sports Shorts: Light Gray\"",
+                         "id":  "1771986000000026120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-24 21:40:12",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Harem Pants: Indigo\"",
+                         "id":  "1771986000000026020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-24 21:40:07",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Vermilion Embroidered Boots\"",
+                         "id":  "1771986000000025920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-19 02:20:38",
+                         "rarity":  "4",
+                         "name":  "Set Catalog - \"Offbeat District\"",
+                         "id":  "1771485600000004020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-19 02:20:34",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Long Sleeve Hoodie: Blue Lagoon\"",
+                         "id":  "1771485600000003920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-19 02:20:31",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Leather Block Heels: Ink Black\"",
+                         "id":  "1771485600000003820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-19 02:20:27",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Colorblock Sneakers: Marine Blue\"",
+                         "id":  "1771485600000003720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-18 22:06:26",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Wrathful Waters Sailor Outfit\"",
+                         "id":  "1771471200000001020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-11 15:33:48",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Symphonic Sandals\"",
+                         "id":  "1770841200000003020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-11 15:33:45",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Colorblock Sneakers: Light Gray\"",
+                         "id":  "1770841200000002920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-11 15:33:42",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Fitted Pants: Dark Gray\"",
+                         "id":  "1770841200000002820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-11 15:33:39",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Bubble Shorts: Dark Gray\"",
+                         "id":  "1770841200000002720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-11 15:33:36",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Umbral High Boots\"",
+                         "id":  "1770841200000002620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-05 15:57:35",
+                         "rarity":  "3",
+                         "name":  "Praise",
+                         "id":  "1770322800000004620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-05 15:57:31",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Fitted Pants: Dark Blue\"",
+                         "id":  "1770322800000004520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-04 16:34:32",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Fatui Shirt: Ink Black\"",
+                         "id":  "1770240000000003420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-04 16:34:28",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Fitted Pants: Coconut Brown\"",
+                         "id":  "1770240000000003320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-04 16:34:26",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Bubble Shorts: Khaki\"",
+                         "id":  "1770240000000003220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-04 16:34:22",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Wrathful Waters Sailor Socks\"",
+                         "id":  "1770240000000003120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-04 16:34:20",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Austere Formal Shirt: Ash White\"",
+                         "id":  "1770240000000003020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-04 16:34:18",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Chill Cuffed Shorts: Marine Blue\"",
+                         "id":  "1770240000000002920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-04 16:34:16",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Cuffed Shorts: Dark Green\"",
+                         "id":  "1770240000000002820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-03 17:56:55",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Peach Pudding\"",
+                         "id":  "1770157200000003720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-02 17:42:13",
+                         "rarity":  "3",
+                         "name":  "Drink Tea",
+                         "id":  "1770070800000004320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-02 17:42:01",
+                         "rarity":  "4",
+                         "name":  "Set Catalog - \"Boundless Resolve\"",
+                         "id":  "1770070800000004220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-02 17:41:58",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Sprout Shirt\"",
+                         "id":  "1770070800000004120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-02 17:41:55",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Colorblock Sneakers: Peach\"",
+                         "id":  "1770070800000004020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-02 17:41:52",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Colorblock Sneakers: Light Gray\"",
+                         "id":  "1770070800000003920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-02 17:41:49",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Long Sleeve Tracksuit: Khaki\"",
+                         "id":  "1770070800000003820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-02 17:41:46",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Fitted Pants: Dark Blue\"",
+                         "id":  "1770070800000003720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-02 17:41:43",
+                         "rarity":  "3",
+                         "name":  "Angry",
+                         "id":  "1770070800000003620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-02-02 17:41:40",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Comfy Slippers: Ash White\"",
+                         "id":  "1770070800000003520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-27 14:06:58",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Leather Block Heels: Blazing Red\"",
+                         "id":  "1769541600000002220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-27 14:06:56",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Joggers: Coconut Brown\"",
+                         "id":  "1769541600000002120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-26 16:07:16",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Classic Pleated Skirt: Blazing Red\"",
+                         "id":  "1769462400000000320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-26 16:07:06",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Wrathful Waters Sailor Cap\"",
+                         "id":  "1769462400000000220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-26 16:07:03",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Colorblock Sneakers: Chestnut\"",
+                         "id":  "1769462400000000120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-26 15:47:51",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Dance Beat Shoes\"",
+                         "id":  "1769458800000000620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-26 15:47:46",
+                         "rarity":  "3",
+                         "name":  "Firm Nod",
+                         "id":  "1769458800000000520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-23 00:46:13",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Harem Pants: Indigo\"",
+                         "id":  "1769145600000004720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-21 12:59:47",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Canvas High-Top Shoes: Caramel Brown\"",
+                         "id":  "1769016000000009420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-21 12:59:44",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Elegant Skirt: Light Brown\"",
+                         "id":  "1769016000000009320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-21 12:59:40",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Leather Boots: Ink Black\"",
+                         "id":  "1769016000000009220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-21 12:59:38",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Sapphire Shower\"",
+                         "id":  "1769016000000009120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-21 12:59:36",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Elegant Sailor\u0027s Blouse: Purple and White\"",
+                         "id":  "1769016000000009020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-20 18:08:14",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Bootcut Pants: Ink Black\"",
+                         "id":  "1768951200000000420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-20 18:08:11",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sweet Blouse: Wine Red\"",
+                         "id":  "1768951200000000320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-20 15:42:22",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Mid Sleeve Shirt: Ink Black\"",
+                         "id":  "1768940400000006820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-20 14:56:53",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Symphonic Sandals\"",
+                         "id":  "1768936800000005920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-20 14:56:51",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Fitted Pants: Dark Gray\"",
+                         "id":  "1768936800000005720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-18 14:57:23",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Fitted Pants: Dark Blue\"",
+                         "id":  "1768764000000009820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-17 14:39:13",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Knit Bubble Sleeve Blouse: Ink Black\"",
+                         "id":  "1768677600000006420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-15 22:31:15",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Formal Shirt: Cloud White\"",
+                         "id":  "1768533600000002620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-15 22:31:12",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Valiant Banner: Brown\"",
+                         "id":  "1768533600000002520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-15 14:17:20",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Colorblock Sneakers: Peach\"",
+                         "id":  "1768504800000001520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-14 14:23:46",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Citrus Concord\"",
+                         "id":  "1768418400000001120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-14 14:23:43",
+                         "rarity":  "4",
+                         "name":  "Set Catalog - \"Offbeat District\"",
+                         "id":  "1768418400000001020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-14 14:23:41",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Straight Fit Shorts: Ink Black\"",
+                         "id":  "1768418400000000920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-14 14:23:38",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Jagged Shirt: Marine Blue\"",
+                         "id":  "1768418400000000820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-14 14:23:35",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Cool Slippers: Marine Blue\"",
+                         "id":  "1768418400000000720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-14 00:49:53",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Camisole: Cloud White\"",
+                         "id":  "1768368000000028220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-14 00:49:50",
+                         "rarity":  "3",
+                         "name":  "Admiration",
+                         "id":  "1768368000000028120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-14 00:49:47",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sweet Blouse: Coconut Brown\"",
+                         "id":  "1768368000000028020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-14 00:49:45",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Hedgehog\"",
+                         "id":  "1768368000000027920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-14 00:49:41",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Bootcut Pants: Marine Blue\"",
+                         "id":  "1768368000000027820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-09 21:41:04",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Joggers: Coconut Brown\"",
+                         "id":  "1768011600000002020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-09 21:41:01",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Blubberbeast Shirt: Dark Gray\"",
+                         "id":  "1768011600000001920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-09 21:40:58",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Academic Shoes: Caramel Brown\"",
+                         "id":  "1768011600000001820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-09 21:40:54",
+                         "rarity":  "3",
+                         "name":  "Knock",
+                         "id":  "1768011600000001720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2026-01-09 21:40:50",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Academic Shoes: Caramel Brown\"",
+                         "id":  "1768011600000001620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-31 04:32:08",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Leather Block Heels: Lilac\"",
+                         "id":  "1767172800000002520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-31 04:32:05",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Joggers: Leaf Green\"",
+                         "id":  "1767172800000002420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-31 04:32:02",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Harem Pants: Cloud White\"",
+                         "id":  "1767172800000002320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-31 04:31:59",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Delicate Freckles\"",
+                         "id":  "1767172800000002220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-31 04:31:53",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Little Devil Casual Shirt: Blazing Red\"",
+                         "id":  "1767172800000002120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-24 04:04:44",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Joggers: Leaf Green\"",
+                         "id":  "1766568000000001220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-24 04:04:37",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Vermilion Socks\"",
+                         "id":  "1766568000000001120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-24 04:04:34",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Nimble Sailor\u0027s Shirt: Marine Blue\"",
+                         "id":  "1766568000000001020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-24 04:04:32",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sharp Mid-Calf Boots: Dark Brown\"",
+                         "id":  "1766568000000000920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-24 04:04:29",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Caramel Twintails\"",
+                         "id":  "1766568000000000820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-24 04:04:25",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Umbral Dress\"",
+                         "id":  "1766568000000000720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-24 04:04:21",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Knit Bubble Sleeve Blouse: Cloud White\"",
+                         "id":  "1766568000000000620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-24 03:51:08",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Long Sleeve Hoodie: Dark Green\"",
+                         "id":  "1766564400000002120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-24 03:51:05",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Valiant Banner: Black\"",
+                         "id":  "1766564400000002020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-23 13:07:57",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Vermilion Embroidered Boots\"",
+                         "id":  "1766514000000001120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-23 13:07:50",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Elegant Sailor\u0027s Blouse: Ink Black\"",
+                         "id":  "1766514000000001020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-23 13:07:45",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Agile Sports Shorts: Ink Black\"",
+                         "id":  "1766514000000000920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-17 04:03:49",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Straight Fit Shorts: Ink Black\"",
+                         "id":  "1765963200000001920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-17 04:03:47",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Cuffed Shorts: Dark Green\"",
+                         "id":  "1765963200000001820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-17 04:03:44",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Blazing Sun Hat\"",
+                         "id":  "1765963200000001720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-17 04:03:40",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Unfussed\"",
+                         "id":  "1765963200000001620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-17 04:03:36",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Leather Boots: Coconut Brown\"",
+                         "id":  "1765963200000001520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-15 14:24:57",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sweet Blouse: Light Gray\"",
+                         "id":  "1765826400000002820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-15 14:24:53",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Sports Shorts: Grass Green\"",
+                         "id":  "1765826400000002720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-15 04:57:55",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Formal Dress Shirt: Ink Black\"",
+                         "id":  "1765790400000005020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-15 04:57:53",
+                         "rarity":  "3",
+                         "name":  "Drink Tea",
+                         "id":  "1765790400000004920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-10 04:00:52",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Agile Sports Shorts: Ink Black\"",
+                         "id":  "1765358400000000720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-10 04:00:49",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Cuffed Shorts: Mallard Green\"",
+                         "id":  "1765358400000000620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-10 04:00:43",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Agile Sports Shorts: Light Gray\"",
+                         "id":  "1765358400000000420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-10 04:00:39",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Colorblock Sneakers: Chestnut\"",
+                         "id":  "1765358400000000320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-10 04:00:36",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Curtain Bangs\"",
+                         "id":  "1765358400000000220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-08 05:40:20",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Colorblock Sneakers: Chestnut\"",
+                         "id":  "1765189200000001320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-08 05:40:08",
+                         "rarity":  "4",
+                         "name":  "Set Catalog - \"Astral Beacon\"",
+                         "id":  "1765189200000001220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-08 04:54:26",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Leather Boots: Light Brown\"",
+                         "id":  "1765185600000001820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-08 04:54:22",
+                         "rarity":  "3",
+                         "name":  "Sweat",
+                         "id":  "1765185600000001720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-06 22:00:55",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Cool Slippers: Dark Green\"",
+                         "id":  "1765077600000000720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-06 22:00:53",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Leather Boots: Light Brown\"",
+                         "id":  "1765077600000000620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-06 22:00:51",
+                         "rarity":  "3",
+                         "name":  "Tearful",
+                         "id":  "1765077600000000520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-06 22:00:49",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Dance Hoodie\"",
+                         "id":  "1765077600000000420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-06 22:00:46",
+                         "rarity":  "3",
+                         "name":  "Knock",
+                         "id":  "1765077600000000320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-03 23:31:58",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Camisole: Marine Blue\"",
+                         "id":  "1764822000000005320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-03 23:31:55",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Fitted Pants: Coconut Brown\"",
+                         "id":  "1764822000000005220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-03 23:31:53",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Fitted Pants: Dark Blue\"",
+                         "id":  "1764822000000005120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-03 23:31:50",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Blouse: Ink Black\"",
+                         "id":  "1764822000000005020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-03 23:31:47",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Umbral Safety Shorts\"",
+                         "id":  "1764822000000004920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-03 23:31:43",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Long Sleeve Hoodie: Blue Lagoon\"",
+                         "id":  "1764822000000004820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-03 23:31:37",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Camisole: Marine Blue\"",
+                         "id":  "1764822000000004720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-03 23:31:34",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Sunny Comfort\"",
+                         "id":  "1764822000000004620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-03 07:02:57",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Long Sleeve Hoodie: Rose Pink\"",
+                         "id":  "1764764400000000720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-03 07:02:54",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Bubble Shorts: Light Green\"",
+                         "id":  "1764764400000000520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-03 07:02:51",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Cool Slippers: Dark Green\"",
+                         "id":  "1764764400000000420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-03 07:02:49",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Dewblossom Missive\"",
+                         "id":  "1764764400000000320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-03 07:02:47",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Bubble Shorts: Granite Black\"",
+                         "id":  "1764764400000000220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-03 07:02:44",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Gentle Ponytail\"",
+                         "id":  "1764764400000000120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-02 23:56:01",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Symphonic Laurel Crown\"",
+                         "id":  "1764735600000027620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-02 23:55:59",
+                         "rarity":  "3",
+                         "name":  "Forced Smile",
+                         "id":  "1764735600000027520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-02 23:55:57",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Long Sleeve Hoodie: Marine Blue\"",
+                         "id":  "1764735600000027420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-12-02 23:55:54",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Delicate Freckles\"",
+                         "id":  "1764735600000027320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-26 04:03:28",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Fatui Shirt: Ink Black\"",
+                         "id":  "1764148800000003220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-26 04:03:23",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Guoba Shirt: Original\"",
+                         "id":  "1764148800000003120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-26 04:03:20",
+                         "rarity":  "3",
+                         "name":  "Wave-Off",
+                         "id":  "1764148800000003020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-26 04:03:13",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Lace-Up Mid-Calf Boots: Chestnut\"",
+                         "id":  "1764148800000002820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-26 04:00:24",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Jagged Shirt: Marine Blue\"",
+                         "id":  "1764148800000000120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-19 20:07:18",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Straight Fit Shorts: Cloud White\"",
+                         "id":  "1763601600000001220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-19 20:07:14",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Joggers: Leaf Green\"",
+                         "id":  "1763601600000001120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-19 04:02:44",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Crescent Moon: Black\"",
+                         "id":  "1763544000000000520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-19 04:02:41",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Blazing Sun Hat\"",
+                         "id":  "1763544000000000420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-19 04:02:36",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sassy Pleated Skirt: Mallard Green\"",
+                         "id":  "1763544000000000320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-19 04:02:32",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Cuffed Shorts: Mallard Green\"",
+                         "id":  "1763544000000000220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-19 04:02:29",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Performance Joggers: Coconut Brown\"",
+                         "id":  "1763544000000000120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-12 04:14:17",
+                         "rarity":  "3",
+                         "name":  "Angry",
+                         "id":  "1762939200000004620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-12 04:14:13",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Long Sleeve Hoodie: Blue Lagoon\"",
+                         "id":  "1762939200000004520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-12 04:14:10",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Classic Mid Sleeve Shirt: Light Gray\"",
+                         "id":  "1762939200000004420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-12 04:14:04",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Sports Shorts: Khaki\"",
+                         "id":  "1762939200000004320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-12 04:13:59",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Plain Skirt: Coconut Brown\"",
+                         "id":  "1762939200000004120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-12 04:13:56",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Wrathful Waters Leather Shoes\"",
+                         "id":  "1762939200000004020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-12 04:13:52",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Straight Fit Shorts: Ink Black\"",
+                         "id":  "1762939200000003920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-10 06:32:25",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Lace-Up Mid-Calf Boots: Chestnut\"",
+                         "id":  "1762773600000000720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-10 06:32:21",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Long Sleeve Hoodie: Dark Green\"",
+                         "id":  "1762773600000000620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-06 04:03:42",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Starry Shirt: Light Gray\"",
+                         "id":  "1762420800000000720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-06 04:03:39",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Crescent Moon: Brown\"",
+                         "id":  "1762420800000000620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-06 04:03:35",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Fitted Pants: Dark Blue\"",
+                         "id":  "1762420800000000520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-06 04:03:32",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Long Sleeve Hoodie: Cloud White\"",
+                         "id":  "1762420800000000420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-06 04:03:29",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Agile Sports Shorts: Dark Blue\"",
+                         "id":  "1762420800000000320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-04 05:06:19",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Bubble Sleeve Blouse: Alizarin Crimson\"",
+                         "id":  "1762251600000000520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-04 05:06:15",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Symphonic Robe\"",
+                         "id":  "1762251600000000420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-04 05:06:04",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sassy Pleated Skirt: Indigo\"",
+                         "id":  "1762251600000000320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-04 05:06:01",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Fitted Pants: Dark Gray\"",
+                         "id":  "1762251600000000220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-11-04 05:05:48",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Straight Fit Shorts: Ink Black\"",
+                         "id":  "1762251600000000120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-29 04:03:52",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Blazing Sun Hat\"",
+                         "id":  "1761729600000004120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-29 04:03:49",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Canvas High-Top Shoes: Teal Blue\"",
+                         "id":  "1761729600000003920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-29 04:03:46",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Short Bubble Sleeve Blouse: Beige\"",
+                         "id":  "1761729600000003820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-29 04:03:41",
+                         "rarity":  "4",
+                         "name":  "Set Catalog - \"Astral Beacon\"",
+                         "id":  "1761729600000003720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-29 04:03:22",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Little Devil Casual Shirt: Blazing Red\"",
+                         "id":  "1761729600000003120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-29 02:21:55",
+                         "rarity":  "3",
+                         "name":  "Drink Tea",
+                         "id":  "1761722400000000620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-27 20:22:16",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Lace-Up Boots: Lead Gray\"",
+                         "id":  "1761614400000008020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-27 06:13:56",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Peach Pudding\"",
+                         "id":  "1761564000000001920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-27 06:13:53",
+                         "rarity":  "3",
+                         "name":  "Wipe Sweat",
+                         "id":  "1761564000000001820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-26 06:48:12",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Elegant Sailor\u0027s Blouse: Purple and White\"",
+                         "id":  "1761477600000007520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-24 05:06:11",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Bubble Shorts: Dark Gray\"",
+                         "id":  "1761301200000001420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 06:48:41",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Sports Shorts: Khaki\"",
+                         "id":  "1761218400000016520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 05:31:42",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Long Sleeve Hoodie: Cloud White\"",
+                         "id":  "1761214800000010620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 05:31:39",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Clear Ripples Long Sleeve Shirt\"",
+                         "id":  "1761214800000010520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 04:21:02",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Nimble Sailor\u0027s Shirt: Blue and White\"",
+                         "id":  "1761211200000013920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 04:02:39",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Anemo Crystalfly Shirt: Ink Black\"",
+                         "id":  "1761211200000003420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 04:02:36",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Cuffed Shorts: Blazing Red\"",
+                         "id":  "1761211200000003320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 04:02:08",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Academic Shoes: Silver White\"",
+                         "id":  "1761211200000003020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 04:02:05",
+                         "rarity":  "3",
+                         "name":  "Pour Tea",
+                         "id":  "1761211200000002820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 04:02:02",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Valiant Banner: Black\"",
+                         "id":  "1761211200000002620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 04:01:58",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sleek Fitted Pants: Dark Gray\"",
+                         "id":  "1761211200000002520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 04:01:54",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Camisole: Cloud White\"",
+                         "id":  "1761211200000002420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 03:10:32",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sassy Pleated Skirt: Cloud White\"",
+                         "id":  "1761207600000004920",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 03:10:28",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Formal Dress Shirt: Dark Purple\"",
+                         "id":  "1761207600000004820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 03:10:23",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Dewblossom Missive\"",
+                         "id":  "1761207600000004720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 03:10:15",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Fatui Shirt: Ink Black\"",
+                         "id":  "1761207600000004520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 03:10:11",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Practical Long Sleeve Hoodie: Rose Pink\"",
+                         "id":  "1761207600000004420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 03:10:08",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Twilight Butterfly\"",
+                         "id":  "1761207600000004320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 03:10:04",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Caramel Twintails\"",
+                         "id":  "1761207600000004220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 03:08:34",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Umbral Boots\"",
+                         "id":  "1761207600000003120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 03:08:22",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Twilight Butterfly\"",
+                         "id":  "1761207600000003020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 02:24:01",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Turtleneck Sweater Vest: Marine Blue\"",
+                         "id":  "1761204000000007420",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 02:23:57",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Colorblock Sneakers: Light Gray\"",
+                         "id":  "1761204000000007320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 02:13:41",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Camisole: Marine Blue\"",
+                         "id":  "1761204000000004720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 02:13:38",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Dance Beat Shoes\"",
+                         "id":  "1761204000000004620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 02:13:30",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Hedgehog\"",
+                         "id":  "1761204000000004520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-23 00:15:22",
+                         "rarity":  "3",
+                         "name":  "Curl Up",
+                         "id":  "1761196800000013320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-22 05:17:20",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Bootcut Pants: Ink Black\"",
+                         "id":  "1761128400000016020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-22 04:41:43",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Chill Cuffed Shorts: Dark Blue\"",
+                         "id":  "1761124800000048320",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-22 04:41:29",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Elegant Sailor\u0027s Blouse: Ink Black\"",
+                         "id":  "1761124800000048220",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-22 04:41:25",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Elegant Dress Shirt: Cloud White\"",
+                         "id":  "1761124800000048120",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-22 04:41:20",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Umbral Boots\"",
+                         "id":  "1761124800000048020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-22 04:41:16",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Elegant Skirt: Light Brown\"",
+                         "id":  "1761124800000047820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-22 04:41:12",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sassy Pleated Skirt: Indigo\"",
+                         "id":  "1761124800000047620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-22 04:29:10",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Comfy Slippers: Marine Blue\"",
+                         "id":  "1761124800000036020",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-22 04:29:06",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Chill Cuffed Shorts: Marine Blue\"",
+                         "id":  "1761124800000035620",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-22 03:59:44",
+                         "rarity":  "3",
+                         "name":  "Component Catalog - \"Hedgehog\"",
+                         "id":  "1761121200000061520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-22 03:58:04",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Comfy Slippers: Ash White\"",
+                         "id":  "1761121200000056820",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-22 03:58:01",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Long Sleeve Hoodie: Dark Gray\"",
+                         "id":  "1761121200000056720",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-22 03:57:57",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Sharp Mid-Calf Boots: Light Brown\"",
+                         "id":  "1761121200000056520",
+                         "pityHit":  "-"
+                     },
+                     {
+                         "date":  "2025-10-22 03:57:49",
+                         "rarity":  "2",
+                         "name":  "Component Catalog - \"Simple Formal Shirt: Marine Blue\"",
+                         "id":  "1761121200000056020",
+                         "pityHit":  "-"
+                     }
+                 ],
+    "event":  [
+                  {
+                      "date":  "2026-01-26 16:12:50",
+                      "rarity":  "3",
+                      "name":  "Manekina Cosmetic - \"Dewdrop Shirt\"",
+                      "id":  "1769462400000000420",
+                      "pityHit":  "-"
+                  },
+                  {
+                      "date":  "2025-12-16 06:17:11",
+                      "rarity":  "3",
+                      "name":  "Manekina Cosmetic: \"Dewdrop Mid-Calf Boots\"",
+                      "id":  "1765884000000000320",
+                      "pityHit":  "-"
+                  },
+                  {
+                      "date":  "2025-12-16 06:17:06",
+                      "rarity":  "3",
+                      "name":  "Manekin Cosmetic: \"Breezy Mid-Calf Boots\"",
+                      "id":  "1765884000000000220",
+                      "pityHit":  "-"
+                  },
+                  {
+                      "date":  "2025-12-16 06:16:56",
+                      "rarity":  "3",
+                      "name":  "Manekin Cosmetic - \"Astral Pants\"",
+                      "id":  "1765884000000000120",
+                      "pityHit":  "-"
+                  },
+                  {
+                      "date":  "2025-12-11 06:41:05",
+                      "rarity":  "4",
+                      "name":  "Manekina Cosmetic - \"Wildpeak Echoes\"",
+                      "id":  "1765452000000000320",
+                      "pityHit":  "-"
+                  },
+                  {
+                      "date":  "2025-12-11 06:40:57",
+                      "rarity":  "3",
+                      "name":  "Manekina Cosmetic - \"Leisurely Fold-over Boots\"",
+                      "id":  "1765452000000000220",
+                      "pityHit":  "-"
+                  },
+                  {
+                      "date":  "2025-12-11 06:40:48",
+                      "rarity":  "3",
+                      "name":  "Manekin Cosmetic: \"Breezy Mid-Calf Boots\"",
+                      "id":  "1765452000000000120",
+                      "pityHit":  "-"
+                  },
+                  {
+                      "date":  "2025-12-06 14:32:24",
+                      "rarity":  "3",
+                      "name":  "Manekina Cosmetic: \"Worldly Long Boots\"",
+                      "id":  "1765048800000003520",
+                      "pityHit":  "-"
+                  },
+                  {
+                      "date":  "2025-12-06 14:32:15",
+                      "rarity":  "3",
+                      "name":  "Manekina Cosmetic: \"Worldly Long Boots\"",
+                      "id":  "1765048800000003420",
+                      "pityHit":  "-"
+                  },
+                  {
+                      "date":  "2025-12-06 14:32:11",
+                      "rarity":  "3",
+                      "name":  "Manekin Cosmetic - \"Rhythmic Beat Shoes\"",
+                      "id":  "1765048800000003320",
+                      "pityHit":  "-"
+                  },
+                  {
+                      "date":  "2025-12-04 05:21:06",
+                      "rarity":  "3",
+                      "name":  "Manekin Cosmetic - \"Rhythmic Tapered Pants\"",
+                      "id":  "1764843600000005120",
+                      "pityHit":  "-"
+                  },
+                  {
+                      "date":  "2025-12-04 05:20:57",
+                      "rarity":  "3",
+                      "name":  "Manekina Cosmetic - \"Breezy Shirt\"",
+                      "id":  "1764843600000005020",
+                      "pityHit":  "-"
+                  },
+                  {
+                      "date":  "2025-12-04 05:20:46",
+                      "rarity":  "3",
+                      "name":  "Manekina Cosmetic: \"Astral Long Boots\"",
+                      "id":  "1764843600000004920",
+                      "pityHit":  "-"
+                  }
+              ]
+}
