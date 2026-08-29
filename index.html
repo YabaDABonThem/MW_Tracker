@@ -87,7 +87,7 @@
                     <button class="active" id="btn-event" onclick="setBanner('event')">Event Odes</button>
                     <button id="btn-standard" onclick="setBanner('standard')">Standard Odes</button>
                 </div>
-                <button onclick="autoImport()">Auto Import</button>
+                <button onclick="openModal('auto-import-modal')">Auto Import</button>
                 <button onclick="openModal('settings-modal')">⚙️ Settings</button>
             </div>
         </header>
@@ -380,8 +380,19 @@
         }
 
         function setFilter(filter) { activeFilter = filter; currentPage = 1; updateFilterButtons(); renderTable(); }
-        function openModal(id) { document.getElementById(id).classList.add('active'); }
-        function closeModal(id) { document.getElementById(id).classList.remove('active'); }
+        function openModal(modalId) {
+            const modal = document.getElementById(modalId);
+            if (modal) {
+                modal.style.display = 'flex'; // or 'block' depending on your CSS flex styling
+            }
+        }
+
+        function closeModal(modalId) {
+            const modal = document.getElementById(modalId);
+            if (modal) {
+                modal.style.display = 'none';
+            }
+        }
 
         function updateUI() {
             const stats = calculateStats();

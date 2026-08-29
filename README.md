@@ -9,10 +9,10 @@ A lightweight, web-based tracker designed to monitor, graph, and analyze your pu
 * **Clean UI:** Responsive design that handles everything from raw PowerShell outputs to active legacy backups.
 
 ## Getting Started
-1. Run the `miliastra-export.ps1` script to securely grab your local game log history.
-2. Open `index.html` in your browser.
-3. Click **Auto Import** and paste the script's output, or upload a `.json` file via the Settings menu.
-4. Your graphs will automatically populate and merge with any existing data.
+1. Access the tracker online at: **[https://yabadabonthem.github.io/MW_Tracker/](https://yabadabonthem.github.io/MW_Tracker/)**
+2. Open the **Auto Import** tab on the website and copy the command provided.
+3. Paste and run that command in your terminal/PowerShell to fetch your game logs and copy the JSON to your clipboard.
+4. Click **Paste from Clipboard** in the Auto Import modal. Your graphs will automatically populate and merge with any existing data!
 
 ## Note on Privacy
 All data processing and storage happens completely locally in your browser. No account information or pull histories are sent to external servers.
