@@ -332,12 +332,14 @@
             </div>
 
         <div class="data-management">
+            <button onclick="pasteFromClipboard()" style="background: var(--accent-purple); border-color: var(--accent-purple); color: white;">📋 Paste from Clipboard</button>
             <input type="file" id="import-file" style="display: none" accept=".json" onchange="importData(event)">
             <button onclick="openModal()" style="border-color: var(--accent-blue); color: var(--accent-blue);">Log Pull Manually</button>
-            <button onclick="document.getElementById('import-file').click()">Import JSON</button>
+            <button onclick="document.getElementById('import-file').click()">Import JSON File</button>
             <button onclick="exportData()">Export JSON</button>
             <button onclick="clearData()" style="border-color: #ef4444; color: #ef4444;">Clear Data</button>
         </div>
+        <div id="import-status" style="margin-top: 0.5rem; text-align: right; font-size: 0.85rem; color: var(--text-muted);"></div>
     </div>
 
     <!-- Modal for Logging Pulls -->
@@ -615,6 +617,46 @@
             };
             reader.readAsText(file);
             event.target.value = '';
+        }
+
+        function showStatus(msg, color = 'var(--text-muted)') {
+            const el = document.getElementById('import-status');
+            el.innerText = msg;
+            el.style.color = color;
+            if (color !== '#ef4444') {
+                setTimeout(() => { if (el.innerText === msg) el.innerText = ''; }, 5000);
+            }
+        }
+
+        async function pasteFromClipboard() {
+            try {
+                const text = await navigator.clipboard.readText();
+                if (!text || !text.trim()) {
+                    showStatus('Clipboard is empty. Run miliastra-export.ps1 first.', '#ef4444');
+                    return;
+                }
+
+                let importedData;
+                try {
+                    importedData = JSON.parse(text);
+                } catch (e) {
+                    showStatus('Clipboard does not contain valid JSON. Run miliastra-export.ps1 first.', '#ef4444');
+                    return;
+                }
+
+                if (importedData.event && importedData.standard) {
+                    state = importedData;
+                    updateUI();
+                    saveData();
+                    const eventCount = state.event.length;
+                    const standardCount = state.standard.length;
+                    showStatus(`Imported ${eventCount} event + ${standardCount} standard odes!`, '#22c55e');
+                } else {
+                    showStatus('Invalid data format. Expected {event: [...], standard: [...]}.', '#ef4444');
+                }
+            } catch (err) {
+                showStatus('Clipboard access denied. Allow clipboard permissions and try again.', '#ef4444');
+            }
         }
 
         function clearData() {

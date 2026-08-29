@@ -1,0 +1,8 @@
+# Ode history data
+miliastra_wishes.json
+*.json
+!package.json
+!package-lock.json
+
+# PowerShell temp files
+*.tmp
