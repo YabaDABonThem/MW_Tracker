@@ -1,8 +1,8 @@
-# Ode history data
+# Ignore local user pull export files
 miliastra_wishes.json
-*.json
-!package.json
-!package-lock.json
+miliastra_wishes_*.json
+*.log
 
-# PowerShell temp files
-*.tmp
+# Temp files
+tmp/
+mw_cache_data_2

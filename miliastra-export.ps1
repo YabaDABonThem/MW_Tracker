@@ -2,11 +2,6 @@ Add-Type -AssemblyName System.Web
 
 # ============================================================
 # Miliastra Wonderland Ode Exporter (All-in-One)
-# 
-# Usage: Open Genshin, view your Miliastra Wonderland ode 
-#        history in-game, then run this script.
-#        The JSON will be copied to your clipboard.
-#        On the tracker site, click "Paste from Clipboard".
 # ============================================================
 
 # 1. AUTO-DISCOVER the output_log.txt path
@@ -25,8 +20,7 @@ foreach ($p in $possiblePaths) {
 
 if (-not $logPath) {
     Write-Host "Cannot find Genshin Impact output_log.txt!" -ForegroundColor Red
-    Write-Host "Searched:" -ForegroundColor Yellow
-    foreach ($p in $possiblePaths) { Write-Host "  $p" }
+    Write-Host "Make sure you opened the Miliastra Wonderland wish history in-game first." -ForegroundColor Yellow
     return
 }
 
@@ -38,12 +32,11 @@ $m = $logs -match "(?m).:/.+(GenshinImpact_Data|YuanShen_Data)"
 $m[0] -match "(.:/.+(GenshinImpact_Data|YuanShen_Data))" >$null
 
 if ($matches.Length -eq 0) {
-    Write-Host "Cannot find the game data folder in the log!" -ForegroundColor Red
+    Write-Host "Cannot find game data directory in log!" -ForegroundColor Red
     return
 }
 
 $gamedir = $matches[1]
-Write-Host "Found game directory: $gamedir" -ForegroundColor Cyan
 
 # 3. EXTRACT the auth URL from web cache
 $webcachePath = Resolve-Path "$gamedir/webCaches"
@@ -71,9 +64,7 @@ for ($i = $found.Length - 1; $i -ge 0; $i -= 1) {
 Remove-Item $tmpfile
 
 if (-not $linkFound) {
-    Write-Host ""
-    Write-Host "Cannot find the auth URL!" -ForegroundColor Red
-    Write-Host "Make sure to open the Miliastra Wonderland ode history in-game first." -ForegroundColor Yellow
+    Write-Host "Cannot find auth URL! Open Miliastra Ode history in-game." -ForegroundColor Red
     return
 }
 
@@ -104,7 +95,7 @@ foreach ($banner in $bannerTypes.GetEnumerator()) {
             $response = Invoke-RestMethod -Uri $requestUrl -Method Get
         }
         catch {
-            Write-Host "Network error. The server may be blocking the request." -ForegroundColor Red
+            Write-Host "Network error." -ForegroundColor Red
             exit
         }
         
@@ -148,19 +139,9 @@ foreach ($banner in $bannerTypes.GetEnumerator()) {
     } while ($pulls.Count -gt 0)
 }
 
-$totalEvent = $formattedData.event.Count
-$totalStandard = $formattedData.standard.Count
-
 # 5. COPY JSON TO CLIPBOARD
 $json = $formattedData | ConvertTo-Json -Depth 4
 Set-Clipboard -Value $json
 
-Write-Host ""
-Write-Host "========================================" -ForegroundColor Green
-Write-Host " Export complete!" -ForegroundColor Green
-Write-Host " Event Odes:    $totalEvent pulls" -ForegroundColor Cyan
-Write-Host " Standard Odes: $totalStandard pulls" -ForegroundColor Cyan
-Write-Host " JSON copied to clipboard!" -ForegroundColor Green
-Write-Host ""
-Write-Host ' On the tracker site, click "Paste from Clipboard"' -ForegroundColor Yellow
-Write-Host "========================================" -ForegroundColor Green
+Write-Host "`nExport complete! JSON copied to clipboard." -ForegroundColor Green
+Write-Host "On the website, click '⚡ Auto Import' -> '📋 Paste from Clipboard'." -ForegroundColor Yellow
