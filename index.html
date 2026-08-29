@@ -7,6 +7,12 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://accounts.google.com/gsi/client" async defer></script>
     <style>
+        #account-select {
+            max-width: 200px; /* Adjust this value if needed */
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
         :root {
             --bg-color: #0b0f19; --panel-bg: #161b2b; --panel-border: #2a314d;
             --text-main: #e2e8f0; --text-muted: #94a3b8;
@@ -81,7 +87,7 @@
                     <button class="active" id="btn-event" onclick="setBanner('event')">Event Odes</button>
                     <button id="btn-standard" onclick="setBanner('standard')">Standard Odes</button>
                 </div>
-                <button class="btn-primary" onclick="openModal('auto-import-modal')">⚡ Auto Import</button>
+                <button onclick="autoImport()">Auto Import</button>
                 <button onclick="openModal('settings-modal')">⚙️ Settings</button>
             </div>
         </header>
@@ -567,15 +573,27 @@
         }
 
         function processImportJSON(importedData) {
-            // Validate JSON structure
-            if (!importedData.currentUid || !importedData.accounts) {
-                throw new Error("Invalid backup file structure. Missing currentUid or accounts object.");
+            let importedUid, importedAccount;
+
+            // 1. Determine JSON Format (Legacy vs. New Flat Format)
+            if (importedData.currentUid && importedData.accounts) {
+                // Legacy backup format
+                importedUid = importedData.currentUid;
+                importedAccount = importedData.accounts[importedUid];
+            } else if (importedData.uid) {
+                // New simplified format (Web backup & PS script output)
+                importedUid = importedData.uid;
+                importedAccount = importedData;
+                
+                // Provide fallbacks if importing raw script data
+                if (!importedAccount.name) importedAccount.name = "Account " + importedUid;
+                if (!importedAccount.event) importedAccount.event = [];
+                if (!importedAccount.standard) importedAccount.standard = [];
+            } else {
+                throw new Error("Invalid backup file structure. Missing UID.");
             }
 
-            const importedUid = importedData.currentUid;
-            const importedAccount = importedData.accounts[importedUid];
-
-            if (!importedAccount || !importedAccount.uid) {
+            if (!importedAccount || !importedUid) {
                 throw new Error("Account data missing for the provided UID.");
             }
 
@@ -610,18 +628,23 @@
             alert(`Successfully imported data for account: ${importedAccount.name}`);
         }
 
+        function displayImportSuccess(uid) {
+            const messageElement = document.getElementById('import-popup-id'); // Replace with your actual element ID
+            messageElement.textContent = `Successfully imported & merged odes for ${uid}!`;
+            messageElement.style.display = 'block';
+
+            // Automatically hide the message after 3.5 seconds
+            setTimeout(() => {
+                messageElement.style.display = 'none';
+            }, 3500);
+        }
+
         function exportData() {
-            // Export ONLY the active account's data
             const currentUid = appData.currentUid;
             const currentAccountData = appData.accounts[currentUid];
             
-            const exportPayload = {
-                currentUid: currentUid,
-                accounts: {}
-            };
-            exportPayload.accounts[currentUid] = currentAccountData;
-
-            const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(exportPayload, null, 2));
+            // Exports only the raw account data (uid, name, event, standard)
+            const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(currentAccountData, null, 2));
             const downloadAnchorNode = document.createElement('a');
             downloadAnchorNode.setAttribute("href", dataStr);
             downloadAnchorNode.setAttribute("download", `miliastra_backup_${currentUid}.json`);
